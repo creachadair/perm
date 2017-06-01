@@ -1,4 +1,3 @@
-// Package perm manipulates permutations.
 package perm
 
 import "sort"
