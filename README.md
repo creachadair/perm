@@ -1,5 +1,5 @@
 # perm
 
-The `perm` package implements functions to manipulate permutations.
+http://godoc.org/bitbucket.org/creachadair/perm
 
-View documentation on [GoDoc](http://godoc.org/bitbucket.org/creachadair/perm).
+The `perm` package implements functions to manipulate permutations.
