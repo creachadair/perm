@@ -32,7 +32,7 @@ func SortInverse(coll sort.Interface) []int {
 		perm: make([]int, n),
 		inv:  make([]int, n),
 	}
-	for i := 0; i < n; i++ {
+	for i := range n {
 		r.perm[i] = i
 		r.inv[i] = i
 	}
